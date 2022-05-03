@@ -2,11 +2,14 @@ navbar_entries:
   - title: about
     url: about
 
+  - title: blog
+    url: blog
+
   - title: website
-    url: https://bioinspiredeyetracker.github.io/
+    url: https://www.abhinav.co
 
 project_entries:
-  - title: PCB
+  - title: PCB Redesign
     url: overview-post
     desc: This is an example project, configured in _data/home.yml
 
@@ -18,34 +21,50 @@ project_entries:
     url: overview-post
     desc: You can control visibility from _config.yml file
 
+  - title: Canned Experiments
+    url: overview-post
+    desc: This project uses highlight markup, configured in _data/home.yml
+    highlight: WIP
+
+  - title: Project 5
+    url: overview-post
+    desc: Moonwalk also has horizontal list (used in header and footer)
+    highlight: WIP
+
+  - title: Project 6
+    url: overview-post
+    desc: It also has a scalable vertical list (in case you need it)
 
 old_project_entries:
   - title: Serena Tang
-    url: https://www.linkedin.com/in/serena-y-tang/
-    desc: 4th UCSD Bioengineering major, moving on to a Master's in Electrical Engineering at UCLA
+    url: https://www.soopr.co
+    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
 
   - title: Keli Wang
-    url: https://github.com/keli214
-    desc: 4th UCSD Bioengineering major, moving on to a Master's in Computer Science at UCSD
+    url: https://github.com/abhinavs/cookie
+    desc: An open source landing website with supporting pages and integrated blog
 
   - title: Stephanie Ogrey
-    url: https://www.linkedin.com/in/stephanie-ogrey/
-    desc: hehe
+    url: https://github.com/abhinavs/moonwalk
+    desc: A fast and minimalist Jekyll blog theme with clean dark mode
 
   - title: Sana Khan
-    url: https://www.linkedin.com/in/sana-khan-a7b119133
-    desc: hehe
+    url: https://www.humangous.co
+    desc: The better people know you, the better they collaborate
     
-   - title: Jorge Villazon
-    url: google.com
-    desc: hehe
+  - title: Jorge Villazon
+    url: https://www.humangous.co
+    desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: Bioengineering Day Website
-    url: https://sites.google.com/ucsd.edu/beday2022/poster-session-1-1030am-12pm/group-17-bio-inspired-eye-tracker
+  - title: abhinav's homepage
+    url: https://www.abhinav.co
+
+  - title: twitter
+    url: https://twitter.com/abhinav
 
   - title: github
-    url: https://github.com/bioinspiredeyetracker
+    url: https://github.com/abhinavs
 
   - title: feed
     url: feed.xml
@@ -81,5 +100,4 @@ misc_entries:
 
           - title: it is easy to use, see _data/home.yml to see how to configure it.
             url: false
-
 
