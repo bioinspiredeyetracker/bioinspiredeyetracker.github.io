@@ -3,37 +3,36 @@ navbar_entries:
     url: about
 
   - title: website
-    url: https://www.abhinav.co
+    url: https://bioinspiredeyetracker.github.io/
 
 project_entries:
   - title: PCB Redesign
     url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+    desc: Shrinking the PCB in the qDVS
 
   - title: Unity
     url: overview-post
-    desc: Projects are shown in card layout
+    desc: Creating the eyeball model in the canned Experiments
 
   - title: Image Processing
     url: overview-post
-    desc: You can control visibility from _config.yml file
+    desc: Creating the MATLAB script to calculate the eye gaze vector
 
   - title: Canned Experiments
     url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
-    highlight: WIP
+    desc: Setting up the canned experiments to characterise the qDVS
 
 old_project_entries:
   - title: Serena Tang
-    url: https://www.soopr.co
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
+    url: hhttps://www.linkedin.com/in/serena-y-tang/
+    desc: 4th year Bioengineering: Bioengineering major at UCSD, going to UCLA for a Masters in Electrical Engineering
 
   - title: Keli Wang
-    url: https://github.com/abhinavs/cookie
-    desc: An open source landing website with supporting pages and integrated blog
+    url: https://github.com/keli214
+    desc: 4th year Bioengineering: Bioengineering major at UCSD, going to UCSD for a Masters in Computer Science
 
   - title: Stephanie Ogrey
-    url: https://github.com/abhinavs/moonwalk
+    url: https://www.linkedin.com/in/stephanie-ogrey/
     desc: A fast and minimalist Jekyll blog theme with clean dark mode
 
   - title: Sana Khan
