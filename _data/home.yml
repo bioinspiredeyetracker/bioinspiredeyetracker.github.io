@@ -11,15 +11,15 @@ project_entries:
     desc: Shrinking the PCB in the qDVS
 
   - title: Unity
-    url: overview-post
+    url: unity
     desc: Creating the eyeball model in the canned Experiments
 
   - title: Image Processing
-    url: overview-post
+    url: image-processing
     desc: Creating the MATLAB script to calculate the eye gaze vector
 
   - title: Canned Experiments
-    url: overview-post
+    url: canned-experiments
     desc: Setting up the canned experiments to characterise the qDVS
 
 old_project_entries:
