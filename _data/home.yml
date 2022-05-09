@@ -7,7 +7,7 @@ navbar_entries:
 
 project_entries:
   - title: PCB Redesign
-    url: 2022-05-08-PCB-Redesign
+    url: pcb-redesign
     desc: Shrinking the PCB in the qDVS
 
   - title: Unity
