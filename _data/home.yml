@@ -2,11 +2,11 @@ navbar_entries:
   - title: Project Overview
     url: about
 
-  - title: website
-    url: false
+  - title: Github
+    url: https://github.com/bioinspiredeyetracker
   
-  - title: subprojects
-    url: 
+  - title: Subprojects
+    url: project_entries
 
 project_entries:
   - title: PCB Redesign
