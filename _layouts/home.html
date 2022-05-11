@@ -18,7 +18,7 @@ layout: test
       height: 6em;
       color: #dbeefb;
     }
-    .navbar{
+    li{
       color: #dbeefb;
     }
 </style>
@@ -26,10 +26,8 @@ layout: test
 <div class = "background">
     <div class= "w">
         <header>
-        <div class="navbar">
             {% if site.theme_config.show_navbar == true %}
             {% include horizontal_list.html collection=site.data.home.navbar_entries %}
-        </div>
         <div class="dashed" style = "margin-bottom: 10em ;"></div>
         {% endif %}
             <h1 class ="title">{{ site.title }}</h1>
