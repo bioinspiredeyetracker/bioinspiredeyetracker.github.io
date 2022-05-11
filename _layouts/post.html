@@ -1,6 +1,16 @@
 ---
 layout: default
 ---
+<style>
+    ul.horizontal-list li a {
+      color: #6299ff;
+      font-weight: bolder;
+      opacity: 1;
+    }
+    ul.horizontal-list li :hover {
+      color: #eef4ff;
+    }
+</style>
 
 <a href="{{ "/" | relative_url }}">{{ site.theme_config.back_home_text }}</a>
 <h1 class="post-title">{{ page.title }}</h1>
