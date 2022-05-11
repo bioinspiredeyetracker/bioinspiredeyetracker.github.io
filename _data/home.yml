@@ -7,6 +7,9 @@ navbar_entries:
   
   - title: Subprojects
     url: project_entries
+  
+  - title: Members
+    url: 
 
 project_entries:
   - title: PCB Redesign
