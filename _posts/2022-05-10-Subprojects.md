@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: post
 title: Subprojects
 project_entries:
   - title: PCB Redesign
