@@ -46,15 +46,14 @@ layout: test
     <p>{{ site.description }}</p>
     {% endif %}
 
-    <div id = "subproject">
 
         {{ content }}
+    <div id = "subproject">
+        {% if site.theme_config.show_projects == true %}
+        <h2>{{ site.theme_config.home.title_projects }}</h2>
+        {% include card_list.html collection=site.data.home.project_entries %}
+        {% endif %}
     </div>
-
-    {% if site.theme_config.show_projects == true %}
-    <h2>{{ site.theme_config.home.title_projects }}</h2>
-    {% include card_list.html collection=site.data.home.project_entries %}
-    {% endif %}
 
     {% if site.theme_config.show_misc_list == true %}
     <h2>{{ site.theme_config.home.title_misc_list }}</h2>
@@ -65,11 +64,12 @@ layout: test
     <h2>{{ site.theme_config.home.title_blog }}</h2>
     {% include post_list.html %}
     {% endif %}
-
-    {% if site.theme_config.show_old_projects == true %}
-    <h2>{{ site.theme_config.home.title_old_projects }}</h2>
-    {% include card_list.html collection=site.data.home.old_project_entries %}
-    {% endif %}
+    <div id = "members">
+        {% if site.theme_config.show_old_projects == true %}
+        <h2>{{ site.theme_config.home.title_old_projects }}</h2>
+        {% include card_list.html collection=site.data.home.old_project_entries %}
+        {% endif %}
+    </div>
 
 
     {% if site.theme_config.show_footer == true %}

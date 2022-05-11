@@ -9,7 +9,7 @@ navbar_entries:
     url: https://bioinspiredeyetracker.github.io#subproject
   
   - title: Members
-    url: members
+    url: https://bioinspiredeyetracker.github.io#members
 
 project_entries:
   - title: PCB Redesign
