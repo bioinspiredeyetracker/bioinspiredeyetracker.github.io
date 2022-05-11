@@ -16,15 +16,20 @@ layout: test
       justify-content: center;
       align-items: flex-start;
       height: 6em;
-      color: #ffffff;
+      color: #dbeefb;
+    }
+    .navbar{
+      color: #dbeefb;
     }
 </style>
 
 <div class = "background">
     <div class= "w">
         <header>
-        {% if site.theme_config.show_navbar == true %}
-        {% include horizontal_list.html collection=site.data.home.navbar_entries %}
+        <div class="navbar">
+            {% if site.theme_config.show_navbar == true %}
+            {% include horizontal_list.html collection=site.data.home.navbar_entries %}
+        </div>
         <div class="dashed" style = "margin-bottom: 10em ;"></div>
         {% endif %}
             <h1 class ="title">{{ site.title }}</h1>
@@ -32,7 +37,7 @@ layout: test
     </div>
 </div>
 <div class = "w">
-    <h2>background</h2>
+    <h2>Background</h2>
     {% if site.theme_config.show_description == true %}
     <p>{{ site.description }}</p>
     {% endif %}
