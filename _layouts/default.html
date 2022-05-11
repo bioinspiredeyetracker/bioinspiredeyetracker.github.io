@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <style>
-    .background{
+    body{
         background-image: url('../images/marmosets.jpg');
+        background-color: #1A1F35;
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-size: cover;
@@ -12,8 +13,6 @@
         {%- include head.html -%}
   <body>
     <main class="page-content" aria-label="Content">
-      <div class = "background">
-      </div>
       <div class="w">
         {{ content }}
         {% if site.theme_config.appearance_toggle %}
