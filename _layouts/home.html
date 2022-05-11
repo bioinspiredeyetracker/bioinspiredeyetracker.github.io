@@ -2,26 +2,19 @@
 layout: default
 ---
 <style>
-    body {
-      background-image: url('../images/marmosets.jpg');
-      background-repeat: no-repeat;
-        background-attachment: fixed;  
-        background-size: cover;
-    }
     .title{
       width: 100%;
       display: flex;
       justify-content: center;
-      align-items: center;
-      height: 30em;
+      align-items: flex-start;
+      height: 15em;
     }
-    
 </style>
 
 <header>
 {% if site.theme_config.show_navbar == true %}
   {% include horizontal_list.html collection=site.data.home.navbar_entries %}
-  <div class="dashed"></div>
+  <div class="dashed" style = "margin-bottom: 10em ;"></div>
 {% endif %}
     <h1 class ="title">{{ site.title }}</h1>
     {% if site.theme_config.show_description == true %}
