@@ -33,9 +33,9 @@ layout: test
     <div class= "w">
         <header>
             {% if site.theme_config.show_navbar == true %}
-            {% include horizontal_list.html collection=site.data.home.navbar_entries %}
-        <div class="dashed" style = "margin-bottom: 10em ;"></div>
-        {% endif %}
+                {% include horizontal_list.html collection=site.data.home.navbar_entries %}
+                <div class="dashed" style = "margin-bottom: 10em ;"></div>
+            {% endif %}
             <h1 class ="title">{{ site.title }}</h1>
         </header>
     </div>

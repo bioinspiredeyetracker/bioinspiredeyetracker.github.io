@@ -1,5 +1,6 @@
-url: https://bioinspiredeyetracker.github.io/subprojects
-
+---
+layout: home
+title: Subprojects
 project_entries:
   - title: PCB Redesign
     url: pcb-redesign
@@ -16,3 +17,5 @@ project_entries:
   - title: Canned Experiments
     url: canned-experiments
     desc: Setting up the canned experiments to characterise the qDVS
+---
+
