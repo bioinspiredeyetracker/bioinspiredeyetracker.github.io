@@ -6,7 +6,7 @@ navbar_entries:
     url: https://github.com/bioinspiredeyetracker
   
   - title: Subprojects
-    url: subprojects
+    url: internal:/project_entries
   
   - title: Members
     url: members
