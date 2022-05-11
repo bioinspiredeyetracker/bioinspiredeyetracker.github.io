@@ -71,18 +71,12 @@ layout: test
 
 
     {% if site.theme_config.show_footer == true %}
-    <footer>
-        <style>
-            ul.horizontal-list li a {
-                color: #74c0fc;
-                font-weight: bolder;
-                opacity: 1;
-                font-size:large;
-            }
-            ul.horizontal-list li :hover {
-                color: #081837;
-            }
-        </style>
+    <footer style=" 
+        color: #74c0fc;
+        font-weight: bolder;
+        opacity: 1;
+        font-size:large;
+        ">
         <div class="dashed"></div>
         {% include horizontal_list.html collection=site.data.home.footer_entries %}
     </footer>
