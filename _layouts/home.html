@@ -6,7 +6,7 @@ width: 100%;
 height: 20em;
 opacity: 0.8;
 justify-content: center;">
-</div>
+
 
 <header>
 {% if site.theme_config.show_navbar == true %}
@@ -15,10 +15,13 @@ justify-content: center;">
 {% endif %}
 
     <h1 >{{ site.title }}</h1>
-  {% if site.theme_config.show_description == true %}
+</header>
+
+</div>
+
+    {% if site.theme_config.show_description == true %}
     <p>{{ site.description }}</p>
   {% endif %}
-</header>
 
 {{ content }}
 
