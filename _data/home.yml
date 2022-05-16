@@ -11,8 +11,6 @@ navbar_entries:
   - title: Members
     url: https://bioinspiredeyetracker.github.io#Teammembers
     
-  - title: Bioengineering Day 2022 Website
-    url: https://sites.google.com/ucsd.edu/beday2022/poster-session-1-1030am-12pm/group-17-bio-inspired-eye-tracker
 
 project_entries:
   - title: PCB Redesign 
