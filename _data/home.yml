@@ -12,9 +12,9 @@ navbar_entries:
     url: https://bioinspiredeyetracker.github.io#Teammembers
 
 project_entries:
-  - title: PCB Redesign qDVS Extension Board
+  - title: PCB Redesign 
     url: pcb-redesign
-    desc: Decreased the size and weight of the camera and imager for future applications with marmoset research.
+    desc: Decreased the size and weight of the camera and imager (qDVS Extension Board) for future applications with marmoset research.
 
   - title: Unity
     url: unity
