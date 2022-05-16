@@ -29,7 +29,7 @@ project_entries:
     desc: Generated qualitative data to evaluate the performance of the qDVS in tracking eye gaze in a projected Unity video.
 
   - title: Mechanical Design
-    url: canned-experiments
+    url: mechanical-design
     desc: insert text here llol
 
 old_project_entries:
