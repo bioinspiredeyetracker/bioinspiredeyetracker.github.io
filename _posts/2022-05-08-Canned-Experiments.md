@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Put name here
+author: Stephanie Ogrey
 ---
 
 text
