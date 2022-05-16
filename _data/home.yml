@@ -14,23 +14,19 @@ navbar_entries:
 project_entries:
   - title: PCB Redesign qDVS Extension Board
     url: pcb-redesign
-    desc: Decreased the size and weight of the camera and imager for future
-    applications with marmoset research.
+    desc: Decreased the size and weight of the camera and imager for future applications with marmoset research.
 
   - title: Unity
     url: unity
-    desc: The performance of three different eye tracking methods was
-    characterized using a generated 3D model in Unity.
+    desc: The performance of three different eye tracking methods was characterized using a generated 3D model in Unity.
 
   - title: Image Processing
     url: image-processing
-    desc: A MATLAB image processing script was gnerated to be able to quantitively 
-    measure eye gaze tracking of the Unity eye model.
+    desc: A MATLAB image processing script was gnerated to be able to quantitively measure eye gaze tracking of the Unity eye model.
 
   - title: Canned Experiments
     url: canned-experiments
-    desc: Generated qualitative data to evaluate the performance of the qDVS in
-    tracking eye gaze in a projected Unity video.
+    desc: Generated qualitative data to evaluate the performance of the qDVS in tracking eye gaze in a projected Unity video.
 
 old_project_entries:
   - title: Serena Tang
@@ -43,11 +39,11 @@ old_project_entries:
 
   - title: Stephanie Ogrey
     url: https://www.linkedin.com/in/stephanie-ogrey/
-    desc: 4th year Bioengineering major at UCSD and incoming Development Engineer I at Illumina. 
+    desc: 4th year Bioengineering major at UCSD and incoming Development Engineer I at Illumina
 
   - title: Sana Khan
     url: https://www.linkedin.com/in/sana-khan-a7b119133/
-    desc: 4th year Bioengineering major at UCSD and current Computer Aided Design Drafter.
+    desc: 4th year Bioengineering major at UCSD and current Computer Aided Design Drafter
     
   - title: Jorge Villazon
     url: https://www.humangous.co
