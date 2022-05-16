@@ -28,6 +28,10 @@ project_entries:
     url: canned-experiments
     desc: Generated qualitative data to evaluate the performance of the qDVS in tracking eye gaze in a projected Unity video.
 
+  - title: Mechanical Design
+    url: canned-experiments
+    desc: insert text here llol
+
 old_project_entries:
   - title: Serena Tang
     url: hhttps://www.linkedin.com/in/serena-y-tang/
