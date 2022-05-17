@@ -78,14 +78,14 @@ html {
 // -------------- THEME SWITCHER -------------- //
 @mixin dark-appearance {
   html, body  {
-      --headings: #74c0fc;
-      --links: #d0daff;
-      --highlight: #41C7C7;
-      --bg: #1f242A;
-      --bg-secondary: #343d47;
-      --text: #adb5bd;
-      --code-text: #91A7FF;
-      --share-text: #C4C4C4;
+    --headings: #435243;
+    --links: #3f4b3f;
+    --highlight: #8cb9b9;
+    --bg: #86a586;
+    --bg-secondary: #b1c8b1;
+    --text: #fff;
+    --code-text: #899d89;
+    --share-text: #303830;
   };
 }
 html[data-theme="dark"] { @include dark-appearance; }
