@@ -7,7 +7,7 @@ author: Stephanie Ogrey
 The objective of performing canned experiments in the optics lab was to generate qualitative data to evaluate the performance of the qDVS in tracking eye gaze in a projected Unity video.
 
 **Experimental Design:**
-![Optics Lab Canned Experiment Set-Up](bioinspiredeyetracker.github.io/images/experimentsetup.png)
+![Optics Lab Canned Experiment Set-Up](images/experimentsetup.png)
 
 As part of improving the set up for canned experiments in the Powell-Focht Bioengineering Hall and in an effort to increase the team’s experience in electrical design, a subproject was designed to create a remote for the projector used for the experiments. The remote PCB was a “shield” for an Arduino UNO designed to be used as a physical remote control as well as remotely through an Arduino script. To create the shield, a schematic was provided by a member of the Cauwenberghs lab in addition to a license for Altium Designer, a PCB design software. The final design for the remote shield consisted of an array of transistors, a series of buttons (for use as a physical remote), an infrared LED and a microcontroller–with the LED and microcontroller belonging to the original projector remote. Both the board schematics and physical PCB are shown below. As a control of the projector can be exerted both physically and remotely with the new device, allowing for flexibility in running the canned experiments with the qDVS.
 
