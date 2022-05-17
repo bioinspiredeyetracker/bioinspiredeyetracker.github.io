@@ -8,7 +8,7 @@ The objective of developing a mechanical design for a new marmoset backpack was 
 
 _Backpack Preliminary Design: Solidworks Assembly_
 
-![Backpack Preliminary Design: Solidworks Assembly](../images/Screenshot 2022-05-17 150048.png)
+![Backpack Preliminary Design: Solidworks Assembly](../images/Screenshot 2022-05-17 150048.png){:height="200px"}
 
 ![Backpack Preliminary Design: Solidworks Assembly](../images/Screenshot 2022-05-17 150227.png)
 
