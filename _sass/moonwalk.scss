@@ -41,7 +41,7 @@ li { margin: 0.4em 0; }
 
 table, th, td {
   width: 100%;
-  border: thin solid black;
+//   border: thin solid black;
   border-collapse: collapse;
   padding: 0.4em;
 }
@@ -81,9 +81,9 @@ html {
     --headings: #435243;
     --links: #3f4b3f;
     --highlight: #8cb9b9;
-    --bg: #aab4aa;
-    --bg-secondary: #929a92;
-    --text: #fff;
+    --bg: #e0f0e3;
+    --bg-secondary: #cddcd0;
+    --text: #000000;
     --code-text: #899d89;
     --share-text: #303830;
   };
