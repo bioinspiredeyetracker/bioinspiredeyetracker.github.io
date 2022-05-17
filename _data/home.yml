@@ -10,23 +10,28 @@ navbar_entries:
   
   - title: Members
     url: https://bioinspiredeyetracker.github.io#Teammembers
+    
 
 project_entries:
-  - title: PCB Redesign
+  - title: PCB Redesign 
     url: pcb-redesign
-    desc: Shrinking the PCB in the qDVS
+    desc: Decreased the size and weight of the camera and imager (qDVS Extension Board) for future applications with marmoset research.
 
   - title: Unity
     url: unity
-    desc: Creating the eyeball model in the canned Experiments
+    desc: The performance of three different eye tracking methods was characterized using a generated 3D model in Unity.
 
   - title: Image Processing
     url: image-processing
-    desc: Creating the MATLAB script to calculate the eye gaze vector
+    desc: A MATLAB image processing script was gnerated to be able to quantitively measure eye gaze tracking of the Unity eye model.
 
   - title: Canned Experiments
     url: canned-experiments
-    desc: Setting up the canned experiments to characterise the qDVS
+    desc: Generated qualitative data to evaluate the performance of the qDVS in tracking eye gaze in a projected Unity video.
+
+  - title: Mechanical Design
+    url: mechanical-design
+    desc: insert text here llol
 
 old_project_entries:
   - title: Serena Tang
@@ -39,11 +44,11 @@ old_project_entries:
 
   - title: Stephanie Ogrey
     url: https://www.linkedin.com/in/stephanie-ogrey/
-    desc: A fast and minimalist Jekyll blog theme with clean dark mode
+    desc: 4th year Bioengineering major at UCSD and incoming Development Engineer I at Illumina
 
   - title: Sana Khan
-    url: https://www.humangous.co
-    desc: The better people know you, the better they collaborate
+    url: https://www.linkedin.com/in/sana-khan-a7b119133/
+    desc: 4th year Bioengineering major at UCSD and current Computer Aided Design Drafter
     
   - title: Jorge Villazon
     url: https://www.humangous.co
