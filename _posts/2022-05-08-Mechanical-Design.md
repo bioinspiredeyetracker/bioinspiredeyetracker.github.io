@@ -8,15 +8,13 @@ The objective of developing a mechanical design for a new marmoset backpack was 
 
 _Backpack Preliminary Design: Solidworks Assembly_
 
-![Backpack Preliminary Design: Solidworks Assembly](../images/Screenshot 2022-05-17 150048.png){:height="200px"}
+![Backpack Preliminary Design: Solidworks Assembly](../images/Screenshot 2022-05-17 150048.png){:height="300px"}
+![Backpack Preliminary Design: Solidworks Assembly](../images/Screenshot 2022-05-17 150227.png){:height="300px"}
 
-![Backpack Preliminary Design: Solidworks Assembly](../images/Screenshot 2022-05-17 150227.png)
+![Backpack Preliminary Design: Solidworks Assembly](../images/Screenshot 2022-05-17 150317.png){:height="300px"}
+![Backpack Preliminary Design: Solidworks Assembly](../images/Screenshot 2022-05-17 150403.png){:height="300px"}
 
-![Backpack Preliminary Design: Solidworks Assembly](../images/Screenshot 2022-05-17 150317.png)
-
-![Backpack Preliminary Design: Solidworks Assembly](../images/Screenshot 2022-05-17 150403.png)
-
-![Backpack Preliminary Design: Solidworks Assembly](../images/Screenshot 2022-05-17 150536.png)
+![Backpack Preliminary Design: Solidworks Assembly](../images/Screenshot 2022-05-17 150536.png){:height="300px"}
 
 This design is meant to be as light weight as possible, with cutouts placed strategically throughout to allow for a lightweight yet sturdy enclosure. The backpack incorporates an arched piece that is meant to hug the back of the marmoset for comfortable wear, allowing for longer experiment times and improved biocompatibility. 
 
