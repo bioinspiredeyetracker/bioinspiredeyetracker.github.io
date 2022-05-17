@@ -19,5 +19,3 @@ This design is meant to be as lightweight as possible, with cutouts placed strat
 
 **Future Directions:**
 Future teams that may choose to work on this project will have access to these SolidWorks files and will be able to update the design of the backpack to accomodate for PCB re-design. The proof-of-concept PCB schematics provided by our team can be used to develop a shrunken down version of the qDVS, and can be incorporated in this backpack design. Dimensions should be easy to modify as it is all consolidated in a SolidWorks assembly. Please reach out to any of us if you are a prospective future design team member!
-
-
