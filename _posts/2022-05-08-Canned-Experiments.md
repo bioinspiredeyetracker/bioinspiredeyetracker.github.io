@@ -8,15 +8,15 @@ The objective of performing canned experiments in the optics lab was to generate
 
 **Experimental Design:**
 
-![Optics Lab Canned Experiment Set-Up](../images/experimentsetup.png)
+_Optics Lab Canned Experiment Set-Up:_
 
-_Optics Lab Canned Experiment Set-Up_
+![Optics Lab Canned Experiment Set-Up](../images/experimentsetup.png)
 
 As part of improving the set up for canned experiments in the Powell-Focht Bioengineering Hall and in an effort to increase the team’s experience in electrical design, a subproject was designed to create a remote for the projector used for the experiments. The remote PCB was a “shield” for an Arduino UNO designed to be used as a physical remote control as well as remotely through an Arduino script. To create the shield, a schematic was provided by a member of the Cauwenberghs lab in addition to a license for Altium Designer, a PCB design software. The final design for the remote shield consisted of an array of transistors, a series of buttons (for use as a physical remote), an infrared LED and a microcontroller–with the LED and microcontroller belonging to the original projector remote. Both the board schematics and physical PCB are shown below. As a control of the projector can be exerted both physically and remotely with the new device, allowing for flexibility in running the canned experiments with the qDVS.
 
-![Assembled Arduino Uno Shield](../images/arduinounoshield.png)
+_Assembled Arduino Uno Shield:_
 
-_Assembled Arduino Uno Shield_
+![Assembled Arduino Uno Shield](../images/arduinounoshield.png)
 
 The projector PCB shield and corresponding code were used to turn on the projector. To perform the optical canned experiment, we first experimented with projector and screen position via a "strobe light" video found on Youtube. In doing so, we altered the position of both the projector and screen while the video was playing to determine the optimal position. Specifically we wanted the entire projector video frame to take up as much space on the projector screen as possible, and we wanted to ensure that the image was clear and in focus. We also attempted to minimize the degree of glare on the screen as we observed it could cause significant noise in the data.
 
