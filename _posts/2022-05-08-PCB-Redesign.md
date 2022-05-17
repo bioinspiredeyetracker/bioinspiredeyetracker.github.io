@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Put name here
+author: Jorge Villazon
 ---
 
 text
