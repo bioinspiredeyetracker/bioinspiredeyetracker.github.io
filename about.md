@@ -2,7 +2,9 @@
 layout: post
 title: Project Overview
 ---
-The bio-inspired eye tracker project is a Bioengineering Senior Design project completed by Serena Tang, Stephanie Ogrey, Keli Wang, Sana Khan, and Jorge Villazon with mentorship from Gert Cauwenberghs and Akshay Paul from the Integrated Systems Neuralengineering Lab at UC San Diego. You can learn more about our project and subprojects through the various links on this website and a brief overview of the project can be seen on the [UCSD Bioengineering Day 2022 website](https://sites.google.com/ucsd.edu/beday2022/poster-session-1-1030am-12pm/group-17-bio-inspired-eye-tracker). 
+The bio-inspired eye tracker project is a Bioengineering Senior Design project completed by Serena Tang, Stephanie Ogrey, Keli Wang, Sana Khan, and Jorge Villazon with mentorship from Gert Cauwenberghs and Akshay Paul from the Integrated Systems Neuralengineering Lab at UC San Diego. 
+
+You can learn more about our project and subprojects through the various links on this website and a brief overview of the project can be seen on the [UCSD Bioengineering Day 2022 website](https://sites.google.com/ucsd.edu/beday2022/poster-session-1-1030am-12pm/group-17-bio-inspired-eye-tracker). Additionally, to view a brief overview video of our project, click the image below.
 
 **Project Overview Video:**
 
@@ -17,3 +19,4 @@ Despite the fact that marmosets are one of the most common primates utilized in 
 
 
 Written by: Serena Tang
+Edited by: Stephanie Ogrey
