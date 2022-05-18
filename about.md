@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Project Overview
-author: Serena Tang
 ---
 The bio-inspired eye tracker project is a Bioengineering Senior Design project completed by Serena Tang, Stephanie Ogrey, Keli Wang, Sana Khan, and Jorge Villazon with mentorship from Gert Cauwenberghs and Akshay Paul from the Integrated Systems Neuralengineering Lab at UC San Diego. 
 
@@ -12,7 +11,7 @@ You can learn more about our project and subprojects through the various links o
 
 A brief overview video of our project is shown below.
 
-<iframe allowfullscreen="allowfullscreen" src="https://drive.google.com/file/d/16rvLF4y8ljd50WN41LSijQXaElyvWO6c/preview" width="640" height="480" ></iframe>
+<iframe allowfullscreen="allowfullscreen" src="https://drive.google.com/file/d/16rvLF4y8ljd50WN41LSijQXaElyvWO6c/preview" width="640" height="400" ></iframe>
 
 
 
