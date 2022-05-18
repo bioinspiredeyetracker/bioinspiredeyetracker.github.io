@@ -9,9 +9,11 @@ You can learn more about our project and subprojects through the various links o
 
 **Project Overview Video:**
 
-To view a brief overview video of our project, click the image below.
+A brief overview video of our project is shown below.
 
-[![Project Overview Video](../images/videothumbnail.png)](https://drive.google.com/file/d/16rvLF4y8ljd50WN41LSijQXaElyvWO6c/view?usp=sharing)
+<iframe allowfullscreen="allowfullscreen" src="https://drive.google.com/file/d/16rvLF4y8ljd50WN41LSijQXaElyvWO6c/view?usp=sharing" ></iframe>
+
+
 
 ## Problem Statement: 
 
