@@ -18,6 +18,4 @@ Despite the fact that marmosets are one of the most common primates utilized in 
 
 
 
-Written by: Serena Tang
-
-Edited by: Stephanie Ogrey
+Written by: Serena Tang | Edited by: Stephanie Ogrey
