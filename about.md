@@ -6,7 +6,7 @@ The bio-inspired eye tracker project is a Bioengineering Senior Design project c
 
 # Project Overview Video:
 
-[![Project Overview Video](../images/videothumbnail.png)] (https://drive.google.com/file/d/16rvLF4y8ljd50WN41LSijQXaElyvWO6c/view?usp=sharing)
+[![Project Overview Video](../images/videothumbnail.png)](https://drive.google.com/file/d/16rvLF4y8ljd50WN41LSijQXaElyvWO6c/view?usp=sharing)
 
 ## Problem Statement: 
 
