@@ -14,7 +14,7 @@ To create a proof-of-concept for the device that are viable for being placed on 
 
 With assistance from the Integrated Systems Neuroengineering, a design that could meet this requirements was constructed by modifying the existing schematic to instead separate the two "stacked" boards of the qDVS 5 into a "top" and "bottom" board. The "top" board of this new design would house the socket for the imager used for capturing light from the eyes of the marmoset as well as the chip responsible for detecting the light intensity changes. The "bottom" board would contain the current "back-end" components that underly the neurmorphic design of the qDVS 5. These two boards would then be connected via a ribbon cable and two ZIF connectors on each board. Once the design was conceptualized, a schematic was created on Altium Designer, a PCB automation software, for the top board, consisting of the ZIF connector and the imager chip.
 
-![Drafting a Schematic](../images/Capture.jpg) Do ![](){:width="200px"}
+![Drafting a Schematic](../images/Capture.JPG) Do ![](){:width="200px"}
 
 _Creating a PCB on Altium:_
 
