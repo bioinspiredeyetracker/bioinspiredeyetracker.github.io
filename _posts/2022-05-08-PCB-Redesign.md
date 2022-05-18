@@ -22,4 +22,4 @@ After creating the schematic, the next step was to design the 3D organization of
 
 With the proper pin placements set and help from the ISN in routing the PCB, we were able to reduce the size of the qDVS PCB to be used in eye-tracking. We further showed that there are even more areas for reducing the size and weight of the PCB through the separation of the boards, allowing future groups to expand on the improvments that have already been made and construct these PCB boards for qualitative quality control of the device. Further developments on the qDVS could be used to facilitate capturing event frames of the eyes through the use of the mirrors currently installed on the Cortical and Behaviroal Sysstems eye-tracking headset.
 
-![Creating a PCB on Altium](../images/image.png)
+![Creating a PCB on Altium](../images/image.png){: width="300px"}
