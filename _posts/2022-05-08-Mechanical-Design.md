@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: images
 author: Sana Khan
 ---
 
