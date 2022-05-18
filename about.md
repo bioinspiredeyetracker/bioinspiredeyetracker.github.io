@@ -11,7 +11,7 @@ You can learn more about our project and subprojects through the various links o
 
 A brief overview video of our project is shown below.
 
-<iframe allowfullscreen="allowfullscreen" src="https://drive.google.com/file/d/16rvLF4y8ljd50WN41LSijQXaElyvWO6c/preview" ></iframe>
+<iframe allowfullscreen="allowfullscreen" src="https://drive.google.com/file/d/16rvLF4y8ljd50WN41LSijQXaElyvWO6c/preview" width="640" height="480" ></iframe>
 
 
 
