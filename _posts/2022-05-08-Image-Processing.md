@@ -6,7 +6,7 @@ author: Serena Tang
 **Objective:**
 The objective of creating an image processing script was to be able to obtain quantitative results from the event frames generated from the qDVS.
 
-[Image Processing Github Link:]( https://github.com/keli214/qDVS_Image_Processing)
+Open source code under: [Image Processing Github]( https://github.com/keli214/qDVS_Image_Processing)
 
 **Experimental Design:**
 
