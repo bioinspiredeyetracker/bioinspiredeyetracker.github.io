@@ -8,18 +8,11 @@ The objective of redesigning the qDVS Printed Circuit Board (PCB) is to create a
 
 **Redesign Procedure:**
 
-_Conceptualization:_
-
-To first redesign the PCB of the qDVS, we had to 
-
 _Drafting a Schematic:_
+To create a proof-of-concept for the device that are viable for being placed on the on the marmosets within the Cortical and Behavioral Systems Laboratory, namely the device should be small and light enough for the 1 foot-long primates to wear on their back and their head. The current qDVS design, known as the qDVS 5, is too large and heavy for it to be supported by the body of the marmosets. If this were the case on the actual device, then the cognitive experiments on these marmosets would be incredibly impacted as their movement and behavior would be different if they were under the weight of a large device.
 
-The projector PCB shield and corresponding code were used to turn on the projector. To perform the optical canned experiment, we first experimented with projector and screen position via a "strobe light" video found on Youtube. In doing so, we altered the position of both the projector and screen while the video was playing to determine the optimal position. Specifically we wanted the entire projector video frame to take up as much space on the projector screen as possible, and we wanted to ensure that the image was clear and in focus. We also attempted to minimize the degree of glare on the screen as we observed it could cause significant noise in the data.
-
-For this test, we projected our Unity eye movement videos at our highest physiological speed of 72 degrees/sec. We projected videos recorded with 100%, 75%, 50%, and 25% brightness levels. An example of two output frames is shown below.
-
-Unfortunately, due to the relatively low sensitivity of the older version of the qDVS that we had available to test, we were not able to obtain meaningful quantitative eye gaze vector results from our testing.  However, we did observe a general trend between the percentage of illumination and the ability of the qDVS to pick up clear event frames. As brightness increased, there was a higher percentage of readable event frames. Specifically, at the brightness level of 25%, 0 of the output frames contained both on and off events and resembled the circular shape of an eyeball; whereas at a brightness level of 100%, over 50% of output frames contained both types of events.
-
-For more meaningful results, these experiments should be replicated with the newer, highly sensitive version of the qDVS which will arrive at the Cauwenberghs lab in spring of 2022.
+With assistance from the Integrated Systems Neuroengineering, a design that could meet this requirements was constructed by modifying the existing schematic to instead separate the two "stacked" boards of the qDVS 5 into a "top" and "bottom" board. The "top" board of this new design would house the socket for the imager used for capturing light from the eyes of the marmoset as well as the chip responsible for detecting the light intensity changes. The "bottom" board would contain the current "back-end" components that underly the neurmorphic design of the qDVS 5. These two boards would then be connected via a ribbon cable and two ZIF connectors on each board. Once the design was conceptualized, a schematic was created on Altium Designer, a PCB automation software, for the top board, consisting of the ZIF connector and the imager chip.
 
 _Creating a PCB on Altium:_
+
+After creatin
